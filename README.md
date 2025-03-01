@@ -3,4 +3,4 @@
 
 
 
-![Example Image](./chane.png)
+![Example Image](./chane.jpg)
